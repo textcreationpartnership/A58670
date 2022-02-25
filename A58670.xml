@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and fuller relation of the battell fought at Stovv in the VVould, March 21. 1645 Between the forces under Sir William Brereton, Coll: Morgan,- and the Lord Ashley. With a catalogue of the prisoners, &amp;c. Sent by a gentleman of credit under Sir William Brereton to some Members of the honorable House of Commons, and by them desi red [sic] to be published.</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58670</idno>
+            <idno type="STC">Wing S139</idno>
+            <idno type="STC">ESTC R219796</idno>
+            <idno type="EEBO-CITATION">99831243</idno>
+            <idno type="PROQUEST">99831243</idno>
+            <idno type="VID">35706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35706)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and fuller relation of the battell fought at Stovv in the VVould, March 21. 1645 Between the forces under Sir William Brereton, Coll: Morgan,- and the Lord Ashley. With a catalogue of the prisoners, &amp;c. Sent by a gentleman of credit under Sir William Brereton to some Members of the honorable House of Commons, and by them desi red [sic] to be published.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Underhill at the Bible in Wood-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: R.S.</note>
+                  <note>"A list of the commanders and officers taken in the battell at Stow in the Would, March 21. 1645" has caption title on A3v.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stow-on-the-Wold (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:35706:1" rendition="simple:additions"/>
+A TRUE AND FULLER RELATION OF THE BATTELL FOUGHT AT Stovv in the VVould, <hi>March</hi> 21.
+1645.</p>
+            <p>Between the Forces under Sir <hi>William Brereton,</hi> Coll: <hi>Morgan,</hi>—AND The
+Lord <hi>Aſhley.</hi>
+            </p>
+            <p>With a Catalogue of the Priſoners, &amp;c.</p>
+            <p>Sent by a Gentleman of Credit under Sir <hi>William Brereton</hi> to ſome Members of the
+Honorable Houſe of COMMONS, and by them deſi red to be publiſhed.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho: <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Wood<g ref="char:EOLhyphen"/>ſtreet. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:35706:2"/>
+            <pb facs="tcp:35706:2"/>
+            <opener>
+               <salute>Honoured Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to my engagements I ſhall give you an account of the proceedings of our Forces in
+reference to our great victory at <hi>Stowe:</hi> Sir <hi>William Brereton</hi> marched with 1000.
+Horſe from <hi>Leychſield</hi> on Tueſday <hi>March</hi> 17. 1645. to <hi>Colſhill,</hi>
+and quartered there two nights, waiting for intelligence from Collorell <hi>Morgan,</hi> and had
+notice that he was come as f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as
+<hi>Strat<g ref="char:EOLhyphen"/>ford</hi> upon <hi>Avon;</hi> and on Tueſday <hi>March</hi> 19. in the morn<g ref="char:EOLhyphen"/>ing, Sir
+<hi>William</hi> marched from <hi>Collhell</hi> through <hi>Warwicke</hi> Towne, towards
+<hi>Stratford;</hi> his Rendevouz was within a mile of <hi>Warwicke,</hi> that after noone, Sir
+<hi>William</hi> had intel<g ref="char:EOLhyphen"/>ligence that Col. <hi>Morgan</hi> was returned backe as farre as
+<hi>Camden,</hi> becauſe that his intelligence was, that the Lord <hi>Aſhley</hi> had a bridge
+carried with him, and was ready to go over the River to joyn with the Kings Horſe from
+<hi>Oxford:</hi> preſently after which, Sir <hi>William</hi> had intelligence that
+<hi>Aſh<g ref="char:EOLhyphen"/>ley</hi> was Retreated backe towards <hi>Worſter,</hi> and bended his march towards
+<hi>Leychſield,</hi> whereupon Sir <hi>William</hi> march<g ref="char:EOLhyphen"/>ed back againe towards
+<hi>Bermingham</hi> to get betweene him and <hi>Litchſield,</hi> and tooke up his quarters 4.
+miles from <hi>Stratford,</hi> at the Lady <hi>Smiths</hi> houſe, about eleven of the Clocke at
+night Intelligence came to him, that <hi>Aſhleys</hi> quarters were within 3. miles, whereupon
+(not knowing whether his intentions were for <hi>Litchſield</hi> or <hi>Ox<g ref="char:EOLhyphen"/>ford,)</hi> we roſe,
+and marched away at one of the clocke af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:35706:3"/>
+midnight, and came to a Towne called <hi>Knoll,</hi> towards <hi>Bermingham,</hi> Fryday morning
+<hi>March</hi> 20 we had Intelli<g ref="char:EOLhyphen"/>gence that <hi>Aſhley</hi> had laid his Bridge, and was
+paſſing over the River; wherupon we had ſeveral meſſengers
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om Col<g ref="char:EOLhyphen"/>lonel <hi>Morgan,</hi> that he would
+face them on <hi>Camden</hi> Hils, whileſt Sir <hi>William</hi> marched up: and notwithſtanding
+that we had marched all the night before, yet we marched back again to <hi>Stratford,</hi> and came
+thither about the going down of the Sun, and preſently received Poſts from Coll.
+<hi>Morgan</hi> that the Enemy were within 3. miles of him, and that their Forlorn Hopes were
+engaged, and if Sir <hi>William</hi> made not haſt they would be gone; for he himſelf ſhould
+be too weak to engage all their Forces. Whereupon Sir <hi>William</hi> gave a ſtrict command,
+that none ſhould ſtay in <hi>Stratford,</hi> but all march away preſently, notwithſtanding
+the conſtant marches before. The Bridge at <hi>Stratford</hi> be<g ref="char:EOLhyphen"/>ing pulled down, we could
+paſſe over but one at a time, yet we made all the haſte that poſſibly we could, and came
+to <hi>Camden</hi> hills by 12. 2 Clock that night. Collonel <hi>Morgan</hi> with his party were
+advanced by 11. and ſtill ſent poſt to Sir <hi>William</hi> to follow, and he would do what
+poſſibly he could to engage <hi>Aſhley</hi> to ſtay. Sir <hi>William</hi> not delaying any
+time, but marched as faſt as poſſibly might be, deſi<g ref="char:EOLhyphen"/>ring him by conſtant poſts to
+engage the Enemy if poſſi<g ref="char:EOLhyphen"/>bly he could, whilſt he came up, which he promiſed to do with all
+ſpeed. And between one and two on Saterday morning, <hi>after we had marched backward and forward
+30. miles ſince Friday morning,</hi> we overtook Col: <hi>Morgan,</hi> and then being
+joyn<g ref="char:punc">▪</g>d, we marched about a mile, and by that time the Scouts brought word that the Enemy were
+drawn up into a Body neer <hi>Stow</hi> in the Ould, at which all our ſouldiers rejoyced, being
+deſirous to engage. Then we
+<pb facs="tcp:35706:3"/>
+marched (the whole Army) in Batalia and after we diſ<g ref="char:EOLhyphen"/>covered them ſtanding in Batalia we faced
+them an houre before we fought, both ſides waiting for day light: Sir <hi>William</hi> and
+Collonel <hi>Morgan</hi> did agree (without any differ<g ref="char:EOLhyphen"/>ence) in the drawing up of the Army, which
+was ordered as follows. Sir <hi>William Brereton</hi> led the Right Wing of Horſe, which were
+thoſe that came with him from <hi>Litch<g ref="char:EOLhyphen"/>ſield:</hi> And the <hi>Glouceſterſhire</hi> men we
+placed in the left Wing, Collonell <hi>Morgan</hi> himſelf very gallantly led the Van<g ref="char:punc">▪</g> Upon
+the firſt Charge the Enemy forced the left Wing to a diſorderly Retreat by over-powring of
+them; ſo that to them it ſeemed ſomething doubtfull, <hi>But Sir Will: Brereton with our
+Right Wing of Horſe charged their left both of Horſe and Foot, and totally Routed them,</hi>
+purſuing them into <hi>Stow;</hi> killing, and wounding many in the town: and the meane while our
+Left wing Rallied; our word was <hi>God be our Guide:</hi> The Enemies word was <hi>Patrick, and
+George.</hi>
+            </p>
+            <p>A Liſt of the Priſoners I have here incloſed. Thus have I given you an Account of the good
+hand of God with us, to whom belongs all the glory. I reſt,</p>
+            <closer>
+               <signed>Your humble Servant, R. S.</signed>
+               <dateline>
+                  <hi>From</hi> Stratford upon Aven
+<date>March 23. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_prisoners">
+            <pb facs="tcp:35706:4"/>
+            <head>A Liſt of the Commanders and Of<g ref="char:EOLhyphen"/>ficers taken in the Battell at <hi>Stow</hi> in the
+<hi>Would, March</hi> 21. 1645.</head>
+            <list>
+               <item>LOrd <hi>Aſhley</hi> Generall.</item>
+               <item>Collo: <hi>Corbet.</hi>
+               </item>
+               <item>Collo: <hi>Gerrard.</hi>
+               </item>
+               <item>Collo: <hi>Mouldſworth.</hi>
+               </item>
+               <item>Lieut: Coll: <hi>Broughton.</hi>
+               </item>
+               <item>Major <hi>Billingſley.</hi>
+               </item>
+               <item>Major <hi>Harneage.</hi>
+               </item>
+               <item>Major <hi>Saliſtone.</hi>
+               </item>
+               <item>Capt: <hi>Edw: Grey.</hi>
+               </item>
+               <item>Capt. <hi>Tho: Gibbert.</hi>
+               </item>
+               <item>Capt. <hi>Harriſon.</hi>
+               </item>
+               <item>Capt. <hi>Peacock.</hi>
+               </item>
+               <item>Capt: <hi>Harris.</hi>
+               </item>
+               <item>Capt: <hi>Salman Halſton.</hi>
+               </item>
+               <item>Capt: <hi>Arding.</hi>
+               </item>
+               <item>Capt: <hi>John Bonner.</hi>
+               </item>
+               <item>Capt: <hi>Tho: Bonner.</hi>
+               </item>
+               <item>Capt: <hi>Joſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sing.</hi>
+               </item>
+               <item>Capt: <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tton.</hi>
+               </item>
+               <item>Capt: <hi>Geniger.</hi>
+               </item>
+               <item>Capt: <hi>Mathews.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>Capt: <hi>Davenport</hi>
+                     </item>
+                     <item>Capt: <hi>Ge<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e: Wright</hi>
+                     </item>
+                     <item>Capt: <hi>Potts</hi>
+                     </item>
+                     <item>Capt: <hi>Smith</hi>
+                     </item>
+                  </list> Reformad.</item>
+               <item>
+                  <hi>Lieu: Hill.</hi>
+               </item>
+               <item>Lieut: <hi>John H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bſon.</hi>
+               </item>
+               <item>Lieu: <hi>B<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nſwick.</hi>
+               </item>
+               <item>Lieut: <hi>W<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>burton.</hi>
+               </item>
+               <item>Lieut: <hi>Geo: Faucott</hi>
+               </item>
+               <item>Lieut: <hi>Hobman.</hi>
+               </item>
+               <item>Lieut: <hi>Benjamen Thornbury.</hi>
+               </item>
+               <item>Lieut: <hi>Fletcher.</hi>
+               </item>
+               <item>Lieut: <hi>Kirke.</hi>
+               </item>
+               <item>Lieut: <hi>Smith</hi> Remormad.</item>
+               <item>Lieut: <hi>Poole</hi> Reformad.</item>
+               <item>Lieut: <hi>Hart</hi> Reformad.</item>
+               <item>Lieut: <hi>Kely</hi> Reformad.</item>
+               <item>Lieut: <hi>Warham</hi> Reformad.</item>
+               <item>Capt: Lieut: <hi>Aſton.</hi>
+               </item>
+               <item>Lieut: <hi>Edw: Baker.</hi>
+               </item>
+               <item>Cornet <hi>Godfrey Preſes.</hi>
+               </item>
+               <item>Cor: <hi>Brooks.</hi>
+               </item>
+               <item>Cor: <hi>Roberts.</hi>
+               </item>
+               <item>Cor: <hi>Ruſſell.</hi>
+               </item>
+               <item>Cor: <hi>Francis Resketh.</hi>
+               </item>
+               <item>Enſ: <hi>Blackburn.</hi>
+               </item>
+               <item>Enſ: <hi>Horton.</hi>
+               </item>
+               <item>Enſ: <hi>Dedluck.</hi>
+               </item>
+               <item>Enſ: <hi>Ellis.</hi>
+               </item>
+               <item>Enſ: <hi>Farmer.</hi>
+               </item>
+               <item>Enſ: <hi>Cleaver.</hi>
+               </item>
+               <item>Enſ: <hi>Avis.</hi>
+               </item>
+               <item>Enſ: <hi>Hobſon.</hi>
+               </item>
+               <item>Enſ: <hi>Calbrook.</hi>
+               </item>
+               <item>Enſ: <hi>Broughton.</hi>
+               </item>
+               <item>Enſ: <hi>Maſon.</hi>
+               </item>
+               <item>
+                  <hi>John de Aſhfield</hi> Clark.</item>
+               <item>
+                  <hi>Alexander Clegley</hi> Chaplain to Sir <hi>Will: Vaughan.</hi>
+               </item>
+               <pb facs="tcp:35706:4"/>
+               <item>
+                  <hi>Edw: Barker</hi> Martiall Generall.</item>
+               <item>
+                  <list>
+                     <item>Quartermaſter <hi>Stone</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Watts</hi>
+                     </item>
+                  </list> Refor<g ref="char:EOLhyphen"/>mad. </item>
+               <item>
+                  <hi>Robert Weale</hi> Chirurgion.</item>
+               <item>
+                  <hi>Rich: Aſton</hi> Servant to the Lord <hi>Aſhley.</hi>
+               </item>
+               <item>Mr. <hi>Williams</hi> Quartermaſter Ge<g ref="char:EOLhyphen"/>nerall.</item>
+               <item>Coll: <hi>Egerton.</hi>
+               </item>
+               <item>Capt: <hi>Stanley.</hi>
+               </item>
+               <item>2 Lieut: Coronels.</item>
+               <item>Common Souldiers 1630.</item>
+               <item>About 100 ſlain.</item>
+               <item>2000 Arms taken.</item>
+               <item>Taken ſince by Collo: <hi>Fleetwood</hi> in the purſuit,</item>
+               <item>Sir <hi>Cha: Lucas.</hi>
+               </item>
+               <item>And 100 common Souldiers and Troopers.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
